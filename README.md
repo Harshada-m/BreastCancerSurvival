@@ -1,4 +1,4 @@
-# CancerSurvival-EDA
+# BreastCancerSurvival-EDA
 
 Here the dataset is about Breast Cancer Survival rate of the women. EDA here plays an very important role in understanding the data and providing the insights on the data. 
 
